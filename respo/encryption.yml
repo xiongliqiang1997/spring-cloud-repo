@@ -1,4 +1,4 @@
 spring:
   datasource:
-    username:qqq
-    password:'{cipher}33472f30d4ae3763e324cac579dafaf6ddc20c2f4896f72d6ece8815349e7d3c'
+    username: qqq
+    password: '{cipher}33472f30d4ae3763e324cac579dafaf6ddc20c2f4896f72d6ece8815349e7d3c'
